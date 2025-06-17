@@ -1,11 +1,6 @@
----
-title: Borromean
-share-description: A 3D design created in vZome.  Use your mouse or touch to interact.
-image: https://ndbrian1.github.io/vzome-sharing/2025/03/12/16-25-57-borromean1/borromean1.png
-layout: design
----
 
-  
+
+  <script type="module" src="https://www.vzome.com/modules/vzome-viewer.js"></script>
   
   <vzome-viewer style="width: 100%; height: 60dvh" 
         src="https://ndbrian1.github.io/vzome-sharing/2025/03/12/16-25-57-borromean1/borromean1.vZome" >
@@ -14,4 +9,3 @@ layout: design
   </vzome-viewer>
 
 
-[Source folder](<https://github.com/ndbrian1/vzome-sharing/tree/main/2025/03/12/16-25-57-borromean1/>)
